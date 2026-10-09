@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SkyRim_Internal/SkyRim_Internal.vcxproj" Id="d2dbaa17-804c-4274-bcec-9e52a4b19835" />
+</Solution>
